@@ -1,4 +1,4 @@
-# Get All WiFi Passwords Script
+# Get All WiFi Passwords Command
 One line command/script that shows you all the Wi-Fi networks you have been connected to and their passwords.
 
 ```
